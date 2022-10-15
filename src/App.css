@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 40px;
+   width: 50%;
+   border: 2px solid blue;
+   padding: 12px;
+   flex-direction: column;
+}
+
+.key-container {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+   padding: 12px;
+
+}
+
+.btn-key {
+  border: 2px solid black;
+  width: 24px;
+  height: 24px;
+   padding: 12px;
+   flex: 25%;
+}
+
+.output-screen {
+  width: 84%;
+  height: 24px;
+  margin: auto;
+  border: 2px solid blue;
+  padding: 12px;
+}
